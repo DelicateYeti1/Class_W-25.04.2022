@@ -19,7 +19,7 @@ int main()
 	{
 		while (ps[j] != i)
 		{
-			i = (rand()%94 + 32);
+			i = (rand()%100 + 18);
 			g++;	
 		}
 		randps[j] = i;
